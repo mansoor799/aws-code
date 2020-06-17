@@ -1,0 +1,53 @@
+[33mcommit 60265abf01347bb4d583353d51489b5c5a266d1b[m[33m ([m[1;36mHEAD -> [m[1;32mdev_branch[m[33m, [m[1;31morigin/dev_branch[m[33m)[m
+Author: the rockstar <rock.lancer@gmail.comgit config --global user.name the>
+Date:   Tue Jun 16 09:57:13 2020 +0800
+
+    some changes to update
+
+[33mcommit 2cef7f8f874bfbc9f53f33ec9dc6591a2296f080[m
+Author: the rockstar <rock.lancer@gmail.comgit config --global user.name the>
+Date:   Mon Jun 15 20:56:37 2020 +0800
+
+    login form
+
+[33mcommit 1437b2a1c62337c8fde8ae86a9521d6b604d9b3b[m
+Author: the rockstar <rock.lancer@gmail.comgit config --global user.name the>
+Date:   Mon Jun 15 20:53:57 2020 +0800
+
+    another change
+
+[33mcommit 06848f9e0364b749530d9bc62d4b055e131d22d4[m
+Author: the rockstar <rock.lancer@gmail.comgit config --global user.name the>
+Date:   Mon Jun 15 20:47:44 2020 +0800
+
+    changed app.js
+
+[33mcommit d784212520a1dda12a60dd890a72db717df05757[m
+Author: the rockstar <rock.lancer@gmail.comgit config --global user.name the>
+Date:   Mon Jun 15 20:43:02 2020 +0800
+
+    first git project
+
+[33mcommit 3f38910c9632c84caeaaf6129badf02294f6bf7e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: mansoor799 <66256998+mansoor799@users.noreply.github.com>
+Date:   Wed Jun 3 15:14:16 2020 +1000
+
+    Add files via upload
+
+[33mcommit 16e82c29a250f6a6c08d1a428462135e68c85909[m
+Author: mansoor799 <66256998+mansoor799@users.noreply.github.com>
+Date:   Tue Jun 2 21:01:45 2020 +1000
+
+    Delete CLI Commands
+
+[33mcommit 7132338b99d0dd746f31661434f195e4a6c6c371[m
+Author: mansoor799 <66256998+mansoor799@users.noreply.github.com>
+Date:   Tue Jun 2 20:57:09 2020 +1000
+
+    Update CLI Commands
+
+[33mcommit 85826a9a3a0c5804ad4eaf9e54ca9439aeca484b[m
+Author: mansoor799 <66256998+mansoor799@users.noreply.github.com>
+Date:   Tue Jun 2 20:50:09 2020 +1000
+
+    Add files via upload
